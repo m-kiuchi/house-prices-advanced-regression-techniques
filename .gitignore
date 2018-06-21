@@ -1,0 +1,6 @@
+*.gz
+*.csv
+*.txt
+*.log
+metastore_db/
+.ipynb_checkpoints/
